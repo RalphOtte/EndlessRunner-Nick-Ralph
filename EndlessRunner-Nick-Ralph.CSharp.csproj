@@ -64,11 +64,12 @@
   <ItemGroup>
     <Compile Include="Assets\scripts\Background\BackgroundHandler.cs" />
     <Compile Include="Assets\scripts\Background\BackgroundMover.cs" />
+    <Compile Include="Assets\scripts\FollowTarget.cs" />
     <Compile Include="Assets\scripts\GameManager.cs" />
     <Compile Include="Assets\scripts\Obstacles\Obstacle.cs" />
     <Compile Include="Assets\scripts\Obstacles\ObstacleSpawner.cs" />
     <Compile Include="Assets\scripts\Player\PlayerData.cs" />
-    <Compile Include="Assets\scripts\Player\playermovent.cs" />
+    <Compile Include="Assets\scripts\Player\playermovement.cs" />
     <Compile Include="Assets\scripts\SceneChange.cs" />
     <Compile Include="Assets\scripts\Spawner\SpawnData.cs" />
     <Compile Include="Assets\scripts\Spawner\StageController.cs" />
